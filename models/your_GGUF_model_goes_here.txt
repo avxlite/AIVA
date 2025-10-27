@@ -1,0 +1,2 @@
+you can find models at:
+https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF/tree/main
