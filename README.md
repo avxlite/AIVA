@@ -21,7 +21,7 @@ built with ctransformers and a local `.gguf` model.(the model size could be 1GB)
 2. Place your model file inside the models folder.
 
 3. Run it
-    ```py
+    ```cmd
     python ai.py
     ```
 
